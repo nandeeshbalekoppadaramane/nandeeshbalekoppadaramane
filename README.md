@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" alt="Nandeesh B" src="https://capsule-render.vercel.app/api?type=waving&amp;color=000000&amp;height=150&amp;section=header&amp;text=NANDEESH%20B&amp;fontColor=FFFFFF&amp;fontSize=38&amp;fontAlignY=36&amp;animation=fadeIn" />
+<img width="100%" alt="Nandeesh B" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=header&text=NANDEESH%20B&fontColor=FFFFFF&fontSize=38&fontAlignY=36&animation=fadeIn" />
 
 ### Your friendly neighborhood CA × developer 🕸️
 
-<img alt="CA finalist building tools for finance" src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;duration=2800&amp;pause=950&amp;color=777777&amp;center=true&amp;vCenter=true&amp;width=720&amp;lines=Your+friendly+neighborhood+CA+%C3%97+developer;Turning+repetitive+finance+work+into+software" />
+<img alt="Your friendly neighborhood CA × developer" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2800&pause=950&color=777777&center=true&vCenter=true&width=720&lines=Your+friendly+neighborhood+CA+%C3%97+developer;Turning+repetitive+finance+work+into+software;With+great+power+comes+great+reconciliation;Swinging+between+GST+portals+and+Tally;My+spidey-sense+tingles+at+unbalanced+ledgers;One+more+check+before+you+hit+Import" />
 
 **CA Finalist** · **Builder** · Bengaluru, India
 
@@ -26,18 +26,14 @@ I build tools for the work that keeps accountants stuck in tabs, spreadsheets an
 | [GST Returns Downloader](https://github.com/nandeeshbalekoppadaramane/GST_Returns_Downloader) | Cuts down month-by-month clicking when downloading GST returns. |
 | [Unlimited OCR](https://github.com/nandeeshbalekoppadaramane/Unlimited-OCR) | Experiments with long-document OCR and resumable processing. |
 
-### What I work with
-
-<div align="center">
-<img alt="Python, JavaScript, HTML, CSS and GitHub" src="https://skillicons.dev/icons?i=python,js,html,css,github&amp;theme=light" />
-</div>
-
-**Finance brain, developer hands.** I use Python and JavaScript to connect the dots between messy real-world data and reliable workflows. Where possible, sensitive files stay on the user's machine rather than making a trip to a server.
-
 ---
 
 <div align="center">
 
-*Less manual work. More time for the judgment that actually matters.* 🕷️
+*With great data comes great validation.* 🕷️
+
+*Less manual work. More time for the judgment that actually matters.*
+
+<img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer" />
 
 </div>
