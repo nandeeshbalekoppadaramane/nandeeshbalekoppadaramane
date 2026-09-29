@@ -26,6 +26,19 @@ I build tools for the work that keeps accountants stuck in tabs, spreadsheets an
 | [GST Returns Downloader](https://github.com/nandeeshbalekoppadaramane/GST_Returns_Downloader) | Cuts down month-by-month clicking when downloading GST returns. |
 | [Unlimited OCR](https://github.com/nandeeshbalekoppadaramane/Unlimited-OCR) | Experiments with long-document OCR and resumable processing. |
 
+## ⚙️ How my tools work
+
+Every tool follows the same rule: **nothing reaches your books without a review step.**
+
+```mermaid
+flowchart LR
+    A[Source<br/>PDF · GST · Bank] --> B[Parse &<br/>Structure]
+    B --> C[Validate<br/>totals · ledgers · GSTIN]
+    C --> D[Human<br/>Review]
+    D --> E[Export /<br/>Import to Tally]
+    C -. mismatch .-> D
+```
+
 ---
 
 <div align="center">
